@@ -1,5 +1,8 @@
-## NeuroTechR3 Companion App
+# NeuroTechR3 Companion App
 
+## NeuroTechR3
+![](/ntr3.gif)
+![](/login.MP4)
 NeuroTechR3 develops evidence-based exergame technologies that help clinicians optimize rehabilitation outcomes for individuals with neurological diseases.  
 Patients utilize a special camera to capture their hand and wrist movements, allowing them to play motion-based games that function as neuro-rehabilitation therapy.  
 
