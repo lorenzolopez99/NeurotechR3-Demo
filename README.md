@@ -42,4 +42,14 @@ This module is responsible for asynchronous data storage, and is key to the app'
 ### react-native-skia
 2D Graphics module, responsible for the graphs displayed on the Game Report Screen. 
 
-###
+### react-native-calendars  
+Responsible for the calendar, slightly limited in terms of aesthetic customization.  
+
+### react-native-wagmi-charts  
+Line chart module used in the Details Screen.  
+
+### expo-av
+Audio-visual module necessary for displaying the videos on the Details Screen.
+
+### rn-pdf-reader  
+Responsible for displaying the PDF under the help section.
